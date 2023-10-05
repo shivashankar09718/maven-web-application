@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>shiva Releases Nexus Repository</name>
-	      <url>http://3.110.135.211/repository/icicibank-release/</url>
+	      <url>http://15.206.179.217/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>shiva Snapshot Nexus Repository </name>
-	      <url>http://3.110.135.211/repository/icicibank-snapshot/</url>
+	      <url>http://15.206.179.217/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
