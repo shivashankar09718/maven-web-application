@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   springboot:
-    image: shivashankar09718/maven-web-application:VERSION
+    image: 050228258667.dkr.ecr.ap-south-1.amazonaws.com/maven-web-application-docker:VERSION
     restart: always
     ports:
     - 9090:8080
